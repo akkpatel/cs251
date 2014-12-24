@@ -1,0 +1,4 @@
+temp  D
+btemp  ABC
+atemp  EFGH
+finalStr  DABCEFGH
